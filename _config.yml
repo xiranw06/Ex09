@@ -32,7 +32,7 @@ github_username:  xiranw06
 remote_theme: "xiranw06/Ex09"
 
 plugins:
-  -xiranw06-remote-theme
+  -jekyll-remote-theme
 #- jekyll-feed
 # Exclude from processing.
 # The following items will not be processed, by default.
