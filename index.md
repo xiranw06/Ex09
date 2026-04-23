@@ -3,11 +3,11 @@
 layout: default
 ---
 
-# This is a big header
+# Welcome to my website!
 
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<!-- what do you think of this website -->
+<img src="Ex09/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-## This is a small header
+## Grace Wang
 
-This is basic paragraph text.
+This is Grace's website.
