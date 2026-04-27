@@ -14,6 +14,7 @@ COMP110 Resource Effectiveness Analysis
 Grace Wang
 <!-- what do you think of this website -->
 <img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+
 ## Overview
 
 In this project, we examined survey data from COMP110 students to determine which course resources are most helpful for learning. The resources we focused on include lesson videos, post-lesson questions, programming assignments, quizzes, office hours, and tutoring.
